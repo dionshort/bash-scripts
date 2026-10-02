@@ -1,6 +1,3 @@
-# Bash scripts
-A collection of bash scripts written during my DevSecOps learning journey.
-
 # Scripts
 
 A collection of Bash and Python scripts written during my DevSecOps learning journey.
