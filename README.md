@@ -59,3 +59,13 @@ against the IPv4 format. Checks that each address has exactly four octets
 and that each octet falls within the valid range of 0 to 255.
 
 **Usage:** `./ip_address_format_checker.py`
+
+---
+
+## new_directory_file_monitor.py
+Continuously monitors a user-specified directory for new files, alerting 
+to the console when one is detected. Validates the directory before 
+starting.
+
+**Usage:** `./new_directory_file_monitor.py`
+
